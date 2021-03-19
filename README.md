@@ -4,6 +4,8 @@ Site de jogos
 
 -------------
 
-##Tecnologias
--HTML
--CSS
+## Tecnologias
+
+- HTML
+
+- CSS
